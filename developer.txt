@@ -1,0 +1,17 @@
+php artisan migrate:refresh --seed
+
+Directorio de notas:
+http://rogerdudler.github.io/git-guide/index.es.html
+https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
+
+http://stackoverflow.com/questions/25748132/what-to-include-in-gitignore-for-a-laravel-and-phpstorm-project
+
+
+detalles:
+eliminar imagen del producto o post login social pagina de biuqueda con las categorias
+
+falta pulir para q haga el login sin email con redes socals
+listado de categorias
+error al eliminar imagen en admin de productos
+material para bsuqueda:
+http://jquery-manual.blogspot.com/2015/12/18-tutorial-de-laravel-5-search-form.html
